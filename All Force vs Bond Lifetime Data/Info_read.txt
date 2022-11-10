@@ -1,0 +1,40 @@
+% This file contains individual data points for all bond lifetime vs force datasets as supplementary raw data for interested readers to download.
+
+% All information is also available corresponding published papers.
+-------- MHC class Ⅰ---------
+OT1-related bond lifetime vs force
+- Liu, Baoyu, et al. "Accumulation of dynamic catch bonds between TCR and agonist peptide-MHC triggers T cell signaling." Cell 157.2 (2014): 357-368.
+- Liu, Baoyu, et al. "The cellular environment regulates in situ kinetics of T‐cell receptor interaction with peptide major histocompatibility complex." European journal of immunology 45.7 (2015): 2099-2110.
+- Hong, Jinsung, et al. "A TCR mechanotransduction signaling loop induces negative selection in the thymus." Nature immunology 19.12 (2018): 1379-1390.
+
+2C-related bond lifetime vs force
+- Liu, Baoyu, et al. "Accumulation of dynamic catch bonds between TCR and agonist peptide-MHC triggers T cell signaling." Cell 157.2 (2014): 357-368.
+- Liu, Baoyu, et al. "The cellular environment regulates in situ kinetics of T‐cell receptor interaction with peptide major histocompatibility complex." European journal of immunology 45.7 (2015): 2099-2110.
+- Hong, Jinsung, et al. "A TCR mechanotransduction signaling loop induces negative selection in the thymus." Nature immunology 19.12 (2018): 1379-1390.
+- Wu, Peng, et al. "Mechano-regulation of peptide-MHC class I conformations determines TCR antigen recognition." Molecular cell 73.5 (2019): 1015-1027.
+
+1G4-related bond lifetime vs force
+- Wu, Peng, et al. "Mechano-regulation of peptide-MHC class I conformations determines TCR antigen recognition." Molecular cell 73.5 (2019): 1015-1027.
+
+N15-related bond lifetime vs force
+- Das, Dibyendu Kumar, et al. "Force-dependent transition in the T-cell receptor β-subunit allosterically regulates peptide discrimination and pMHC bond lifetime." Proceedings of the National Academy of Sciences 112.5 (2015): 1517-1522.
+
+B13/17-related bond lifetime vs force
+- Zareie, Pirooz, et al. "Canonical T cell receptor docking on peptide–MHC is essential for T cell signaling." Science 372.6546 (2021): eabe9124.
+
+-------- MHC class Ⅱ---------
+3L2-related bond lifetime vs force
+- Hong, Jinsung, et al. "Force-regulated in situ TCR–peptide-bound MHC class II kinetics determine functions of CD4+ T cells." The Journal of Immunology 195.8 (2015): 3557-3564.
+
+2B4-related bond lifetime vs force
+- Yuan, Zhou, et al. "Cooperative ectodomain interaction among TCRαβ, CD3γε, and CD3δε enhances TCR mechanotransduction." bioRxiv (2022).
+
+E8-related bond lifetime vs force
+- Rushdi, Muaz Nik, et al. "Cooperative binding of TCR and CD4 to pMHC enhances TCR sensitivity." bioRxiv (2021).
+
+% Each txt file contains three columns
+1st col : mean force
+2nd col : mean bond lifetime
+3rd col : s.e.m of bond lifetime
+
+All data were measured by either Biomembrane Force Probe (BFP) or Optical Tweezers (OT), total number of data for each condition can be checked in corresponding paper.
